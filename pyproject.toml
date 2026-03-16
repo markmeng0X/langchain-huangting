@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "langchain-huangting"
-version = "1.0.0"
+version = "1.0.1"
 description = "LangChain integration for the Huangting Protocol MCP network — the world's first lifeform OS for AI Agents"
 readme = "README.md"
 license = { text = "MIT" }

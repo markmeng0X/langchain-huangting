@@ -23,7 +23,7 @@ Dashboard:    https://huangtingflux.com
 Protocol:     https://huangting.ai
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "Meng Yuanjing / XianDAO Labs"
 __license__ = "MIT"
 
